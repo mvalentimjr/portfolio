@@ -12,7 +12,7 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 * Flex-box
 
-## Feito por:
+## Desenvolvido por:
 
 ### Marco Valentim Jr.
 
